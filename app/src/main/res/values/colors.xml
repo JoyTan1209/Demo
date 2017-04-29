@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="blue_color">#5372F5</color>
+    <color name="blue_press_color">#4761d1</color>
+    <color name="coupon_remind_bg">#cc5372f5</color>
+    <color name="main_background_color">#F7F7F9</color>
+    <color name="second_grey_color">#DADEE5</color>
+    <color name="second_grey_color_20">#E3E4E9</color>
+    <color name="third_grey_color">#9298A9</color>
+    <color name="text_grey_color">#9298A9</color>
+    <color name="text_grey_color_50">#c4c7d0</color>
+    <color name="text_black_color">#383a44</color>
+    <color name="text_second_black_color">#6B7081</color>
+    <color name="text_third_black_color">#6B7081</color>
+    <color name="product_bg">#191A27</color>
+    <color name="red_color">#EB4C4C</color>
+    <color name="green_color">#36CA73</color>
+    <color name="red_press_color">#c33e3e</color>
+    <color name="green_press_color">#2a9c59</color>
+    <color name="yellow_color">#ffdf85</color>
+    <color name="divide_color">@color/second_grey_color_20</color>
+
+    <color name="white">@android:color/white</color>
+</resources>
